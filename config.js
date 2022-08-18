@@ -13,10 +13,10 @@ global.APIKeys = {
 }
 
 //---LAINNYA---///
-global.owner = ['6287898307350']
-global.packname = 'PENTABOT'
+global.owner = ['6285727894951']
+global.packname = 'DREAMBOT'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','😱','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
@@ -38,7 +38,7 @@ global.mess = {
 
 
 
-global.sessionName = 'GempyTon'    
+global.sessionName = 'DREAMFantasy'    
 global.thumb = fs.readFileSync('./FotoMenu/Gempy.jpg')
 
 let file = require.resolve(__filename)
